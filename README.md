@@ -1,6 +1,6 @@
-# cashy_app
+# Cashy App
 
-A new Flutter project.
+My First Flutter App
 
 ## Getting Started
 
